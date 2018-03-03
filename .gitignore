@@ -7,6 +7,7 @@
 *.tar.gz
 *.zip
 *.7z
+*.db
 #meta_*
 memo.md
 コピー ～ *
